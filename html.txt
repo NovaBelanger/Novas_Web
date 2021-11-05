@@ -1,0 +1,80 @@
+# Novas-Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="CSS" type="text/css" href="https://novabelanger.github.io/CSS">
+  <style>
+  body {background-color: powderblue;}
+  h1   {color: blue;}
+  p    {color: red;}
+  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/navigation.css">
+  <title>Nova's Webpage</title>
+  <center>
+    <hr size=3 noshade>
+    <head>
+      <h1> Nova <br> Belanger </h1>
+    </head>
+    <br>
+      <hr size=3 noshade>
+
+    <body>
+    <h2 style="color:red;margin-lefr:40px;"> My Biography </h2>
+    <div class="Biography">
+       <p style=" color:red;">
+       Hello my name is Nova Belanger, I am currently 18 years old. Im currently attending St.Lawrence college in cornwall ontario. The program im taking is the video game programming courses. I have lived in cornwall for my whole life so it was a no brainer to attend this college espicilly with COVID-19. I graduated high school in 2021 from Heritage high school which is right next to the college. Ive been attending french schools my whole life so it is a little different having thr college all english but I still enjoy it.
+      </p>
+      </div>
+
+      <body>
+ <h3> Photo of me </h3>
+        <img src="DE5489D-110B-4676-B29A-D03E9B52610F.jpeg" alt="Nova Belanger picture" >
+      </body>
+        <hr size=3 noshade>
+
+      <body style="background-color: green:">
+      <h3> Hobbies and Intresets </h3>
+      <div class="hobbies">
+      <pre>
+      My favorite hobbies/intressets are videos games and anime/manga. If been playing video games since I was around 5 or 6 years old. Ive been watching and reading anime for about 8 years now.
+      </pre>
+      </div>
+      </body>
+
+      <table>
+ <hr style="color: green;" size=3 noshade>
+
+        <h4> Some of my favorite games and anime/manga </h4>
+        <table>
+        <tr>
+<th>Video Games</th>
+<td>Call of duty</td>
+<td>Bioshock</td>
+</tr>
+<tr>
+<th>Anime</th>
+<td>jujutsu kaisen</td>
+<td>Attack On Titan</td>
+</tr>
+<tr>
+<th>Manga</th>
+<td>Attack On Titan</td>
+<td>Demon Slayer</td>
+</tr>
+</table>
+   <body>
+
+          <a href="https://bioshockgame.com/" target="_blank">Bioshock</a>
+
+</body>
+ <hr size=3 noshade>
+        <h5> Resume and Contact information </h5>
+        <p> You can always reach me by email such as: nova.belanger2@student.sl.on.ca or belangernova@gmail.com. And the following link has my resume you can view.
+
+    <a href=https://docs.google.com/document/d/1MxU3sIUum4GcgugaPY0BIt00Vk9bjKym_y01RMjddBM/edit?usp=sharing target="_blank">Nova's Resume</a>
+        </p>
+         <hr size=3 noshade>
+        </html>

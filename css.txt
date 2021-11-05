@@ -1,0 +1,14 @@
+hr {
+background-color: green;
+width: 50%;
+height:3px; }
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
